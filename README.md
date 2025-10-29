@@ -1,6 +1,6 @@
 # 🧭 Career
 
-A modern, animated, and fully responsive **React + Tailwind CSS portfolio** built to showcase experience, projects, and contact information in an elegant, interactive way.
+A modern, animated, and fully responsive **React + Tailwind CSS CV portfolio** built to showcase experience, projects, and contact information in an elegant, interactive way.
 
 ---
 
