@@ -12,9 +12,9 @@
     
     <!-- 
         This is the script tag that loads your main application bundle.
-        In a standard Vite project, this usually points to src/main.jsx.
-        The build tool (Vite/Rollup) processes this and replaces it with the final bundled JS file.
+        I am changing the path from /src/main.jsx to /main.jsx to try to resolve 
+        the build error related to path resolution in the Vercel/Vite environment.
     -->
-    <script type="module" src="/src/main.jsx"></script>
+    <script type="module" src="/main.jsx"></script>
 </body>
 </html>
